@@ -1,0 +1,14 @@
+C:\vsprog\lessons2\ExceptionsOOP\bin\Debug\net7.0\ExceptionsOOP.exe
+C:\vsprog\lessons2\ExceptionsOOP\bin\Debug\net7.0\ExceptionsOOP.deps.json
+C:\vsprog\lessons2\ExceptionsOOP\bin\Debug\net7.0\ExceptionsOOP.runtimeconfig.json
+C:\vsprog\lessons2\ExceptionsOOP\bin\Debug\net7.0\ExceptionsOOP.dll
+C:\vsprog\lessons2\ExceptionsOOP\bin\Debug\net7.0\ExceptionsOOP.pdb
+C:\vsprog\lessons2\ExceptionsOOP\obj\Debug\net7.0\ExceptionsOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprog\lessons2\ExceptionsOOP\obj\Debug\net7.0\ExceptionsOOP.AssemblyInfoInputs.cache
+C:\vsprog\lessons2\ExceptionsOOP\obj\Debug\net7.0\ExceptionsOOP.AssemblyInfo.cs
+C:\vsprog\lessons2\ExceptionsOOP\obj\Debug\net7.0\ExceptionsOOP.csproj.CoreCompileInputs.cache
+C:\vsprog\lessons2\ExceptionsOOP\obj\Debug\net7.0\ExceptionsOOP.dll
+C:\vsprog\lessons2\ExceptionsOOP\obj\Debug\net7.0\refint\ExceptionsOOP.dll
+C:\vsprog\lessons2\ExceptionsOOP\obj\Debug\net7.0\ExceptionsOOP.pdb
+C:\vsprog\lessons2\ExceptionsOOP\obj\Debug\net7.0\ExceptionsOOP.genruntimeconfig.cache
+C:\vsprog\lessons2\ExceptionsOOP\obj\Debug\net7.0\ref\ExceptionsOOP.dll
